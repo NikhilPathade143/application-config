@@ -2,4 +2,4 @@
 
 spring:
   application:
-    name: Job-Service1-prod
+    name: Job-Service-prod
